@@ -23,6 +23,6 @@ When we use Angr based SE tools, e.g. Driller, on static linked binaries, it's s
 `sudo apt-get install -y lib32gcc1 libc6-i686:i386 libfontconfig:i386 libfreetype6:i386 libglib2.0-0:i386 libpython2.7:i386 libsm6:i386 libssl-dev:i386 libstdc++6:i386 libxext6:i386 libxrender1:i386 lsb-core python-dev`
 
 
-#### Thanks
+### Thanks
 
 Thanks for @qldxsun for IDA tech support!
