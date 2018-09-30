@@ -26,3 +26,12 @@ When we use Angr based SE tools, e.g. Driller, on static linked binaries, it's s
 ### Thanks
 
 Thanks for @qldxsun for IDA tech support!
+
+
+### Notes
+
+https://github.com/intezer/docker-ida is an docker container for IDA linux
+
+https://gist.github.com/williballenthin/1c6ae0fbeabae075f1a4 is an docker file for building an wine-based ida in an docker.
+
+These tools are both useful. However if your resources are limited, IDA_Wrapper will be the best choise.
